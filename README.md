@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Clochs
-- 👀 I'm not really sure what I'm interested in yet because I'm brand new to coding 
-- 🌱 I’m currently learning responsive web design.
+- 👀 I'm a full stack software engineer
 - 💞️ I’m looking to collaborate on anything that will help me learn!
 - 📫 How to reach me 
 
